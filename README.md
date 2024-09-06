@@ -1,6 +1,6 @@
 # React-Form-Validation
 **OUTPUT**
-![Logo](./validate-form/Components/Screenshot%20(372).png)
+![Logo](./validate-form/Components/OUTPUT1.png)
 ## This is normal form validation using Reactjs.
 
 ### If you are new with the ReactJS go to validate-form folder you will see new readme file where you can follow steps and install, start with basic commands.
